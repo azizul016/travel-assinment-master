@@ -1,0 +1,14 @@
+.Card{
+    width: 200px !important;
+    height: 370px !important;
+    
+}
+.cardStyle{
+    position: relative;
+}
+.titleStyle{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+
+}

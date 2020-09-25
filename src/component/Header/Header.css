@@ -1,0 +1,16 @@
+.nav{  
+    /* margin: 50px auto;  */
+    /* position: fixed!important; */
+}
+a{
+    text-decoration: none !important;
+}
+.nav a{
+    padding: 12px 29px;  
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: black;
+}
